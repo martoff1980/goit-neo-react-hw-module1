@@ -1,0 +1,9 @@
+.friend-list ul {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 50px;
+  gap: 20px;
+  list-style-type: none;
+  background-color: #ffffff;
+}
